@@ -1,3 +1,9 @@
+shutter (0.89.0-0ubuntu1~0aurex1) precise; urgency=low
+
+  * Rebuild for aurex 12.04
+
+ -- Luis Antonio Garcia Gisbert <luisgg@gmail.com>  Mon, 01 Oct 2012 21:35:42 +0200
+
 shutter (0.89.0-0ubuntu1) quantal; urgency=low
 
   * New upstream release.
