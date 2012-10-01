@@ -1,0 +1,2712 @@
+# Latvian translation for shutter
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the shutter package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: shutter\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2011-11-20 21:55+0100\n"
+"PO-Revision-Date: 2012-03-10 15:25+0000\n"
+"Last-Translator: tuxmaniack <Unknown>\n"
+"Language-Team: Latvian <lv@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2012-07-29 21:56+0000\n"
+"X-Generator: Launchpad (build 15694)\n"
+
+#: translate_tmp.pl:388
+#: translate_tmp.pl:2574
+#: translate_tmp.pl:7329
+msgid "Profile"
+msgstr "Profils"
+
+#: translate_tmp.pl:396
+#: translate_tmp.pl:3950
+msgid "Preferences"
+msgstr "Iestatījumi"
+
+#: translate_tmp.pl:770
+#: translate_tmp.pl:771
+msgid "gnome-web-photo needs to be installed for this feature"
+msgstr "Lai izmantotu šo iespēju, ir jābūt uzinstalētam 'gnome-web-photo'"
+
+#: translate_tmp.pl:779
+msgid "Goo::Canvas/libgoo-canvas-perl needs to be installed for this feature"
+msgstr ""
+"Lai izmantotu šo iespēju, ir jābūt uzinstalētam 'Goo::Canvas/libgoo-canvas-"
+"perl'"
+
+#: translate_tmp.pl:812
+msgid "Choose a profile"
+msgstr "Izvēlieties profilu"
+
+#: translate_tmp.pl:828
+msgid "Save configuration as profile"
+msgstr "Saglabāt konfigurāciju kā profilu"
+
+#: translate_tmp.pl:838
+msgid "Delete profile"
+msgstr "Dzēst profilu"
+
+#: translate_tmp.pl:847
+msgid "Load the selected profile's configuration"
+msgstr "Ielādēt atlasītā profila konfigurāciju"
+
+#: translate_tmp.pl:855
+#: translate_tmp.pl:1129
+#: translate_tmp.pl:9842
+#: translate_tmp.pl:1500
+msgid "Image format"
+msgstr "Attēla formāts"
+
+#: translate_tmp.pl:862
+msgid "Save"
+msgstr "Saglabāt"
+
+#: translate_tmp.pl:869
+msgid "First-launch Behavior"
+msgstr "Pirmās palaišanas uzvedība"
+
+#: translate_tmp.pl:876
+msgid "Window Preferences"
+msgstr "Loga iestatījumi"
+
+#: translate_tmp.pl:883
+msgid "Notifications"
+msgstr "Paziņojumi"
+
+#: translate_tmp.pl:890
+msgid "Trash"
+msgstr "Miskaste"
+
+#: translate_tmp.pl:897
+msgid "Gnome-Keybinding"
+msgstr "Gnome taustiņu saistīšana"
+
+#: translate_tmp.pl:904
+#: translate_tmp.pl:2342
+msgid "Actions"
+msgstr "Darbības"
+
+#: translate_tmp.pl:911
+#: translate_tmp.pl:1893
+msgid "Capture"
+msgstr "Uzņemt"
+
+#: translate_tmp.pl:918
+msgid "Selection Capture"
+msgstr "Iezīmētā reģiona uzņemšana"
+
+#: translate_tmp.pl:925
+msgid "Advanced Selection Capture"
+msgstr "Paplašinātā iezīmētā reģiona uzņemšana"
+
+#: translate_tmp.pl:932
+msgid "Window Capture"
+msgstr "Loga uzņemšana"
+
+#: translate_tmp.pl:939
+msgid "Menu/Tooltip Capture"
+msgstr "Izvēlnes/paskaidres uzņemšana"
+
+#: translate_tmp.pl:946
+msgid "Website Capture"
+msgstr "Tīmekļa vietnes uzņemšana"
+
+#: translate_tmp.pl:953
+msgid "Accounts"
+msgstr "Konti"
+
+#: translate_tmp.pl:960
+msgid "File Transfer Protocol (FTP)"
+msgstr "Failu pārsūtīšanas protokols (FTP)"
+
+#: translate_tmp.pl:967
+msgid "Transparent Parts"
+msgstr "Caurspīdīgās daļas"
+
+#: translate_tmp.pl:974
+msgid "Session View"
+msgstr "Sesiju skatījums"
+
+#: translate_tmp.pl:982
+#: translate_tmp.pl:1830
+#: translate_tmp.pl:1834
+msgid "Filename"
+msgstr "Faila nosaukums"
+
+#: translate_tmp.pl:1008
+#: translate_tmp.pl:9487
+#: translate_tmp.pl:11221
+#, perl-format
+msgid "Reserved character %s is not allowed to be in a filename."
+msgstr "Rezervētā rakstzīme %s nedrīkst būt faila nosaukumā."
+
+#: translate_tmp.pl:1022
+msgid "There are several wildcards available, like\n"
+msgstr "Šeit ir pieejamas vairākas aizstājējzīmes\n"
+
+#: translate_tmp.pl:1023
+msgid "%Y = year\n"
+msgstr "%Y = gads\n"
+
+#: translate_tmp.pl:1024
+msgid "%m = month\n"
+msgstr "%m = mēnesis\n"
+
+#: translate_tmp.pl:1025
+#, perl-format
+msgid "%d = day\n"
+msgstr "%d = diena\n"
+
+#: translate_tmp.pl:1026
+msgid "%T = time\n"
+msgstr "%T = laiks\n"
+
+#: translate_tmp.pl:1027
+msgid "$w = width\n"
+msgstr "$w = platums\n"
+
+#: translate_tmp.pl:1028
+msgid "$h = height\n"
+msgstr "$h = augstums\n"
+
+#: translate_tmp.pl:1029
+msgid "$name = multi-purpose (e.g. window title)\n"
+msgstr "$name = daudzfunkcionāls (piem., loga nosaukums)\n"
+
+#: translate_tmp.pl:1030
+msgid "$nb_name = like $name but without blanks in resulting strings\n"
+msgstr "$nb_name = tā pat, kā $name, tikai bez tukšumiem\n"
+
+#: translate_tmp.pl:1031
+msgid "$profile = name of current profile\n"
+msgstr "$profile = pašreizējā profila nosaukums\n"
+
+#: translate_tmp.pl:1032
+msgid "$R = random char (e.g. $RRRR = ag4r)\n"
+msgstr "$R = nejauša rakstzīme (piem., $RRRR = ag4r)\n"
+
+#: translate_tmp.pl:1033
+msgid "%NN = counter"
+msgstr "%NN = skaitītājs"
+
+#: translate_tmp.pl:1048
+#: translate_tmp.pl:2910
+msgid "Compression"
+msgstr "Saspiešana"
+
+#: translate_tmp.pl:1058
+#: translate_tmp.pl:1060
+msgid "Adjust quality/compression value"
+msgstr "Regulēt kvalitāti/saspiešanas pakāpi"
+
+#: translate_tmp.pl:1130
+#: translate_tmp.pl:1131
+msgid "Select a file format"
+msgstr "Izvēlieties faila formātu"
+
+#: translate_tmp.pl:1140
+msgid "Directory"
+msgstr "Direktorija"
+
+#: translate_tmp.pl:1141
+#: translate_tmp.pl:10373
+#: translate_tmp.pl:10375
+#: translate_tmp.pl:10393
+#: translate_tmp.pl:10394
+msgid "Choose folder"
+msgstr "Izvēlieties mapi"
+
+#: translate_tmp.pl:1148
+#: translate_tmp.pl:1149
+msgid "Your screenshots will be saved to this directory"
+msgstr "Jūsu ekrānuzņēmumi tiks saglabāti šajā mapē"
+
+#: translate_tmp.pl:1158
+#: translate_tmp.pl:1161
+msgid "Browse for save folder every time"
+msgstr "Vienmēr jautāt man, kur saglabāt failus"
+
+#: translate_tmp.pl:1163
+#: translate_tmp.pl:1166
+msgid "Do not save file automatically"
+msgstr "Nesaglabāt failu automātiski"
+
+#: translate_tmp.pl:1168
+#: translate_tmp.pl:1171
+msgid "Automatically save file"
+msgstr "Saglabāt failu automātiski"
+
+#: translate_tmp.pl:1195
+#: translate_tmp.pl:1204
+msgid "Automatically copy screenshot to clipboard"
+msgstr "Automātiski kopēt ekrānuzņēmumu uz starpliktuvi"
+
+#: translate_tmp.pl:1211
+#: translate_tmp.pl:1220
+msgid "Automatically copy filename to clipboard"
+msgstr "Automātiski kopēt faila nosaukumu starpliktuvē"
+
+#: translate_tmp.pl:1227
+#: translate_tmp.pl:1236
+msgid "Do not copy anything to clipboard"
+msgstr "Nekopēt neko starpliktuvē"
+
+#: translate_tmp.pl:1245
+msgid "Delay"
+msgstr "Aizture"
+
+#: translate_tmp.pl:1247
+#: translate_tmp.pl:1256
+#: translate_tmp.pl:1700
+#: translate_tmp.pl:2837
+#: translate_tmp.pl:2843
+#: translate_tmp.pl:2848
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "sekunde"
+msgstr[1] "sekundes"
+msgstr[2] "sekunžu"
+
+#: translate_tmp.pl:1254
+msgid "Capture after a delay of"
+msgstr "Uzņemt pēc aiztures"
+
+#: translate_tmp.pl:1268
+#: translate_tmp.pl:1269
+#: translate_tmp.pl:1270
+#: translate_tmp.pl:1272
+#: translate_tmp.pl:1273
+#: translate_tmp.pl:1274
+msgid "Wait n seconds before taking a screenshot"
+msgstr "Gaidīt n sekundes, pirms uzņemt ekrānuzņēmumu"
+
+#: translate_tmp.pl:1285
+msgid "Include Cursor"
+msgstr "Iekļaut kursoru"
+
+#: translate_tmp.pl:1286
+#: translate_tmp.pl:1292
+#: translate_tmp.pl:1293
+msgid "Include cursor when taking a screenshot"
+msgstr "Iekļaut ekrānuzņēmumā peles kursoru"
+
+#: translate_tmp.pl:1348
+msgid "Open with"
+msgstr "Atvērt ar"
+
+#: translate_tmp.pl:1349
+#: translate_tmp.pl:1350
+#: translate_tmp.pl:1351
+msgid "Open your screenshot with this program after capturing"
+msgstr "Pēc uzņemšanas atvērt ekrānuzņēmumu ar šo programmu"
+
+#: translate_tmp.pl:1362
+msgid "16 colors   - (4bit) "
+msgstr "16 krāsas   - (4biti) "
+
+#: translate_tmp.pl:1363
+msgid "64 colors   - (6bit) "
+msgstr "64 krāsas   - (6biti) "
+
+#: translate_tmp.pl:1364
+msgid "256 colors  - (8bit) "
+msgstr "256 krāsas  - (8biti) "
+
+#: translate_tmp.pl:1389
+msgid "Reduce colors"
+msgstr "Samazināt krāsas"
+
+#: translate_tmp.pl:1390
+#: translate_tmp.pl:1391
+#: translate_tmp.pl:1392
+msgid "Automatically reduce colors after taking a screenshot"
+msgstr "Automātiski samazināt krāsas pēc ekrānuzņēmuma uzņemšanas"
+
+#: translate_tmp.pl:1402
+msgid "Thumbnail"
+msgstr "Sīktēls"
+
+#: translate_tmp.pl:1428
+#: translate_tmp.pl:1430
+#: translate_tmp.pl:1432
+msgid ""
+"Generate thumbnail too.\n"
+"select the percentage of the original size for the thumbnail to be"
+msgstr ""
+"Izveidot sīktēlu.\n"
+"izvēlieties procentos no sākotnējā lieluma, cik liels sīktēls jāveido"
+
+#: translate_tmp.pl:1445
+msgid "Border"
+msgstr "Apmale"
+
+#: translate_tmp.pl:1447
+#: translate_tmp.pl:1531
+#: translate_tmp.pl:1532
+#: translate_tmp.pl:1621
+#: translate_tmp.pl:1754
+#: translate_tmp.pl:7176
+msgid "pixels"
+msgstr "pikseļi"
+
+#: translate_tmp.pl:1449
+msgid "Color"
+msgstr "Krāsa"
+
+#: translate_tmp.pl:1452
+#: translate_tmp.pl:1462
+#: translate_tmp.pl:1464
+msgid "Choose border color"
+msgstr "Izvēlieties apmales krāsu"
+
+#: translate_tmp.pl:1455
+#: translate_tmp.pl:1457
+#: translate_tmp.pl:1459
+msgid "Adds a border effect to the screenshot"
+msgstr "Pievieno apmales efektu ekrānuzņēmumam"
+
+#: translate_tmp.pl:1506
+#: translate_tmp.pl:1514
+msgid "Enable zoom window"
+msgstr "Ieslēgt tālummaiņas logu"
+
+#: translate_tmp.pl:1523
+msgid "Start with selection size of"
+msgstr "Sākt ar iezīmētā laukuma lielumu"
+
+#: translate_tmp.pl:1525
+msgid "at"
+msgstr "uz"
+
+#: translate_tmp.pl:1555
+#: translate_tmp.pl:1556
+#: translate_tmp.pl:1557
+#: translate_tmp.pl:1558
+#: translate_tmp.pl:1559
+#: translate_tmp.pl:1560
+#: translate_tmp.pl:1561
+#: translate_tmp.pl:1562
+#: translate_tmp.pl:1563
+#: translate_tmp.pl:1564
+msgid "Start Advanced Selection Tool with a customized selection size"
+msgstr "Sākt paplašināto iezīmētā reģiona uzņemšanu ar pielāgotu izmēru"
+
+#: translate_tmp.pl:1582
+msgid "Show help text"
+msgstr "Rādīt palīdzības tekstu"
+
+#: translate_tmp.pl:1590
+msgid "Enables the help text"
+msgstr "Ieslēdz palīdzības tekstu"
+
+#: translate_tmp.pl:1599
+#: translate_tmp.pl:1600
+msgid "Include window decoration when capturing a window"
+msgstr "Uzņemot ekrānuzņēmumu iekļaut loga apdari"
+
+#: translate_tmp.pl:1617
+msgid "Automatically resize window to"
+msgstr "Automātiski izmainīt loga izmēru uz"
+
+#: translate_tmp.pl:1641
+#: translate_tmp.pl:1642
+#: translate_tmp.pl:1643
+#: translate_tmp.pl:1644
+#: translate_tmp.pl:1645
+msgid ""
+"This resizes the window automatically to the specified width and height. "
+"This method asks the window manager to resize the window. However, the "
+"window manager may not allow the resize."
+msgstr ""
+"Šis iestatījums automātiski izmaina loga platumu un augstumu. Šī metode dod "
+"pavēli logu pārvaldniekam, lai tas izmaina loga izmēru. Tomēr, logu "
+"pārvaldnieks var neatbalstīt šādu izmēra mainīšanu."
+
+#: translate_tmp.pl:1658
+msgid "Force rounded window corners"
+msgstr "Piespiest noapaļot logu stūrus"
+
+#: translate_tmp.pl:1667
+#, perl-format
+msgid ""
+"Shutter uses the XShape extension to determine the window's shape, but this "
+"does not work under some circumstances, e.g. when running compiz.\n"
+"\n"
+"When this option is activated Shutter uses fixed parameters to round the "
+"window corners. You can overwrite the default parameters by creating a file "
+"named ~/.shutter/shape.conf and put custom values in it. The default values "
+"are stored in %s."
+msgstr ""
+"Shutter izmanto 'XShape' paplašinājumu, lai noteiktu loga formu, bet tas "
+"nestrādā visos gadījumos, piem., kad izmanto 'compiz'.\n"
+"\n"
+"Kad šī opcija ir aktivizēta Shutter izmanto fiksētus parametrus, lai "
+"noapaļotu logu stūrus. Jūs varat pārrakstīt noklusējuma vērtības, izveidojot "
+"failu ar nosaukumu ~/.shutter/shape.conf un norādīt vērtības tajā. "
+"Noklusējuma vērtības ir saglabātas %s."
+
+#: translate_tmp.pl:1681
+#: translate_tmp.pl:1682
+msgid "Select only visible windows"
+msgstr "Izvēlēties tikai redzamos logus"
+
+#: translate_tmp.pl:1698
+msgid "Pre-Capture Delay"
+msgstr "Pirmsuzņemšanas aizture"
+
+#: translate_tmp.pl:1712
+#: translate_tmp.pl:1713
+#: translate_tmp.pl:1714
+msgid "Capture menu/tooltip after a delay of n seconds"
+msgstr "Uzņemt izvēlni/paskaidri pēc n sekundēm."
+
+#: translate_tmp.pl:1725
+msgid "Ignore possibly wrong type hints"
+msgstr "Ignorēt, iespējams, nepareiza veida norādes"
+
+#: translate_tmp.pl:1726
+msgid ""
+"The type hint constants specify hints for the window manager that indicate "
+"what type of function the window has. Sometimes these type hints are not "
+"correctly set. By enabling this option Shutter will not insist on the "
+"requested type hint."
+msgstr ""
+"Logu pārvaldītājs veic norādes, kādas funkcijas logam ir. Dažreiz šāda veida "
+"norādes nav pareizas. Iespējojot šo opciju, Shutter neuzstās uz pieprasīto "
+"veida norādi."
+
+#: translate_tmp.pl:1741
+msgid "Virtual browser width"
+msgstr "Virtuālā pārlūka platums"
+
+#: translate_tmp.pl:1762
+#: translate_tmp.pl:1763
+#: translate_tmp.pl:1764
+msgid "Virtual browser width when taking a website screenshot"
+msgstr "Virtuālā pārlūka platums, kad uzņem tīmekļa vietnes ekrānuzņēmumu"
+
+#: translate_tmp.pl:1775
+msgid "Show as check pattern"
+msgstr "Rādīt rūtiņu rakstā"
+
+#: translate_tmp.pl:1776
+msgid "Show as custom color:"
+msgstr "Rādīt pielāgotā krāsā:"
+
+#: translate_tmp.pl:1779
+#: translate_tmp.pl:452
+#: translate_tmp.pl:3764
+#: translate_tmp.pl:4020
+msgid "Choose fill color"
+msgstr "Izvēlieties aizpildījuma krāsu"
+
+#: translate_tmp.pl:1781
+msgid "Show as background"
+msgstr "Rādīt fona krāsā"
+
+#: translate_tmp.pl:1802
+msgid "Displays any transparent parts of the image in a check pattern"
+msgstr "Attēlo attēla caurspīdīgās daļas rūtiņu rakstā"
+
+#: translate_tmp.pl:1803
+msgid ""
+"Displays any transparent parts of the image in a solid color that you specify"
+msgstr "Attēlo attēla caurspīdīgās daļas krāsā kuru jūs norādiet"
+
+#: translate_tmp.pl:1804
+msgid ""
+"Displays any transparent parts of the image in the background color of the "
+"application"
+msgstr "Attēlo attēla caurspīdīgās daļas lietotnes fona krāsā"
+
+#: translate_tmp.pl:1828
+msgid "Sort ascending by"
+msgstr "Kārtot augošā secībā pēc"
+
+#: translate_tmp.pl:1831
+#: translate_tmp.pl:1835
+msgid "Key/Time Created"
+msgstr "Atslēga/izveidošanas laiks"
+
+#: translate_tmp.pl:1832
+msgid "Sort descending by"
+msgstr "Kārtot dilstošā secībā pēc"
+
+#: translate_tmp.pl:1877
+#: translate_tmp.pl:1878
+#: translate_tmp.pl:1879
+#: translate_tmp.pl:1880
+msgid "Configure sort criteria"
+msgstr "Konfigurēt kārtošanas kritērijus"
+
+#: translate_tmp.pl:1897
+#: translate_tmp.pl:1903
+msgid ""
+"Configure global keybinding for capture\n"
+"The format looks like \"<Control>a\" or \"<Shift><Alt>F1\". The parser is "
+"fairly liberal and allows lower or upper case, and also abbreviations such "
+"as \"<Ctl>\" and \"<Ctrl>\". If you set the option to the special string "
+"\"disabled\", then there will be no keybinding for this action. "
+msgstr ""
+"Konfigurēt globālo taustiņu saistīšanu\n"
+"Formāts ir \"<Control>a\" vai \"<Shift><Alt>F1\". Nav nozīmes vai izmanto "
+"lielos, vai mazos burtus, kā arī var izmantot saīsinājumus \"<Ctl>\" un "
+"\"<Ctrl>\". Ja iestatāt uz \"disabled\", tad šai saīsnei nebūs nekādas "
+"darbības. "
+
+#: translate_tmp.pl:1913
+msgid "Capture with selection"
+msgstr "Uzņemt ar izvēli"
+
+#: translate_tmp.pl:1917
+#: translate_tmp.pl:1923
+#: translate_tmp.pl:1946
+msgid ""
+"Configure global keybinding for capture with selection\n"
+"The format looks like \"<Control>a\" or \"<Shift><Alt>F1\". The parser is "
+"fairly liberal and allows lower or upper case, and also abbreviations such "
+"as \"<Ctl>\" and \"<Ctrl>\". If you set the option to the special string "
+"\"disabled\", then there will be no keybinding for this action. "
+msgstr ""
+"Konfigurēt globālo taustiņu saistīšanu, uzņemšanai ar izvēli\n"
+"Formāts ir \"<Control>a\" vai \"<Shift><Alt>F1\". Nav nozīmes vai izmanto "
+"lielos, vai mazos burtus, kā arī var izmantot saīsinājumus \"<Ctl>\" un "
+"\"<Ctrl>\". Ja iestatāt uz \"disabled\", tad šai saīsnei nebūs nekādas "
+"darbības. "
+
+#: translate_tmp.pl:1929
+#: translate_tmp.pl:63
+#: translate_tmp.pl:46
+#: translate_tmp.pl:220
+#: translate_tmp.pl:802
+msgid "Selection"
+msgstr "Iezīmētais"
+
+#: translate_tmp.pl:1930
+msgid "Select Window"
+msgstr "Izvēlēties logu"
+
+#: translate_tmp.pl:1931
+#: translate_tmp.pl:8443
+msgid "Active Window"
+msgstr "Aktīvais logs"
+
+#: translate_tmp.pl:1932
+#: translate_tmp.pl:151
+msgid "Section"
+msgstr "Sadaļa"
+
+#: translate_tmp.pl:1933
+#: translate_tmp.pl:171
+#: translate_tmp.pl:1111
+msgid "Menu"
+msgstr "Izvēlne"
+
+#: translate_tmp.pl:1934
+#: translate_tmp.pl:191
+#: translate_tmp.pl:1117
+msgid "Tooltip"
+msgstr "Paskaidre"
+
+#: translate_tmp.pl:1935
+#: translate_tmp.pl:210
+msgid "Web"
+msgstr "Tīmeklis"
+
+#: translate_tmp.pl:1936
+#: translate_tmp.pl:37
+msgid "Redo"
+msgstr "Atkārtot"
+
+#: translate_tmp.pl:1962
+msgid ""
+"<b>Please note:</b> Make sure to activate <i>Gnome Compatibility</i> and "
+"<i>D-Bus Control Backend</i> via CompizConfig Settings Manager if your are "
+"using Desktop Effects or Unity."
+msgstr ""
+"<b>Piezīme:</b> Pārliecinieties, ka ir aktivizēts <i>Gnome Compatibility</i> "
+"un <i>D-Bus Control Backend</i> CompizConfig iestatījumu pārvaldniekā, ja "
+"izmantojiet darbvirsmas efektus vai Unity."
+
+#: translate_tmp.pl:2005
+#: translate_tmp.pl:2061
+msgid "Start Shutter at login"
+msgstr "Palaist Shutter pieteicoties sistēmā"
+
+#: translate_tmp.pl:2006
+#: translate_tmp.pl:2069
+msgid "Hide window on first launch"
+msgstr "Slēpt logu pirmajā palaišanā"
+
+#: translate_tmp.pl:2007
+#: translate_tmp.pl:2077
+msgid "Hide notification icon"
+msgstr "Slēpt ziņojumu lauka ikonu"
+
+#: translate_tmp.pl:2009
+#: translate_tmp.pl:2085
+msgid "Autohide main window when taking a screenshot"
+msgstr "Slēpt galveno logu, kad uzņem ekrānuzņēmumu"
+
+#: translate_tmp.pl:2010
+msgid "Redraw Delay"
+msgstr "Pārzīmēšanas aizture"
+
+#: translate_tmp.pl:2013
+#: translate_tmp.pl:2853
+msgid "millisecond"
+msgid_plural "milliseconds"
+msgstr[0] "milisekunde"
+msgstr[1] "milisekundes"
+msgstr[2] "milisekunžu"
+
+#: translate_tmp.pl:2019
+#: translate_tmp.pl:2109
+msgid "Present main window after taking a screenshot"
+msgstr "Rādīt galveno logu, pēc ekrānuzņēmuma uzņemšanas"
+
+#: translate_tmp.pl:2020
+#: translate_tmp.pl:2150
+msgid "Minimize to tray when closing main window"
+msgstr "Nolaisties ziņojumu joslā, aizverot galveno logu"
+
+#: translate_tmp.pl:2022
+#: translate_tmp.pl:2117
+msgid "Display pop-up notification after taking a screenshot"
+msgstr "Rādīt uznirstošo ziņojumu, pēc ekrānuzņēmuma uzņemšanas"
+
+#: translate_tmp.pl:2023
+#: translate_tmp.pl:2125
+#: translate_tmp.pl:2133
+msgid "Display pop-up notification when using a delay"
+msgstr "Rādīt uznirstošo ziņojumu, kad izmanto aizturi"
+
+#: translate_tmp.pl:2024
+msgid "Display pop-up notification when using a pre-capture delay"
+msgstr "Rādīt uznirstošo ziņojumu, kad izmanto pirmsuzņemšanas aizturi"
+
+#: translate_tmp.pl:2026
+msgid "Notification agent"
+msgstr "Apziņošanas aģents"
+
+#: translate_tmp.pl:2028
+msgid "Desktop Notifications"
+msgstr "Darbvirsmas apziņošana"
+
+#: translate_tmp.pl:2029
+msgid "Built-In Notifications"
+msgstr "Iebūvētā apziņošana"
+
+#: translate_tmp.pl:2033
+#: translate_tmp.pl:2158
+msgid "Ask before moving files to trash"
+msgstr "Jautāt pirms izmest failus miskastē"
+
+#: translate_tmp.pl:2034
+#: translate_tmp.pl:2166
+msgid "Move file to trash when closing tab"
+msgstr "Aizverot cilni izmest failu miskastē"
+
+#: translate_tmp.pl:2035
+#: translate_tmp.pl:2174
+msgid "Notify when file was deleted from filesystem"
+msgstr "Paziņot, ja fails ir ticis izdzēsts"
+
+#: translate_tmp.pl:2093
+#: translate_tmp.pl:2094
+#: translate_tmp.pl:2095
+msgid ""
+"Configure a short timeout to give the Xserver a chance to redraw areas that "
+"were obscured by Shutter's windows before taking a screenshot."
+msgstr ""
+"Konfigurēt īsu noildzi, lai dotu 'Xserver' iespēju pārzīmēt daļas, kas bija "
+"aizēnotas ar Shutter logiem pirms ekrānuzņēmuma."
+
+#: translate_tmp.pl:2141
+#: translate_tmp.pl:2142
+msgid ""
+"You can either choose the system-wide desktop notifications (e.g. Ubuntu's "
+"Notify-OSD) or Shutter's built-in notification system"
+msgstr ""
+"Varat izvēlēties sistēmas darbvirsmas paziņojumus (piem., Ubuntu 'Notify-"
+"OSD') vai iebūvēto Shutter paziņojumu sistēmu"
+
+#: translate_tmp.pl:2202
+msgid ""
+"<b>Please note:</b> If a plugin allows authorized uploading you can enter "
+"your credentials above. Plugins with OAuth support are configured "
+"automatically the first time you use them."
+msgstr ""
+"<b>Piezīme:</b> Ja spraudnis atļauj autorizētu augšupielādi, jūs varat "
+"ievadīt savus pieteikšanās datus augšā. Spraudņi ar OAuth tiek konfigurēti "
+"automātiski, kad pirmo reizi tos izmantojiet."
+
+#: translate_tmp.pl:2207
+#: translate_tmp.pl:10443
+msgid "URI"
+msgstr "URI"
+
+#: translate_tmp.pl:2216
+#: translate_tmp.pl:2218
+#: translate_tmp.pl:10448
+#: translate_tmp.pl:10450
+msgid ""
+"URI\n"
+"Example: ftp://host:port/path"
+msgstr ""
+"URI\n"
+"Piemērs: ftp://adrese:ports/ceļš"
+
+#: translate_tmp.pl:2224
+#: translate_tmp.pl:2235
+#: translate_tmp.pl:2237
+#: translate_tmp.pl:10455
+#: translate_tmp.pl:10462
+#: translate_tmp.pl:10464
+msgid "Connection mode"
+msgstr "Savienojuma režīms"
+
+#: translate_tmp.pl:2227
+#: translate_tmp.pl:10458
+msgid "Active mode"
+msgstr "Aktīvais režīms"
+
+#: translate_tmp.pl:2228
+#: translate_tmp.pl:10459
+msgid "Passive mode"
+msgstr "Pasīvais režīms"
+
+#: translate_tmp.pl:2243
+#: translate_tmp.pl:2252
+#: translate_tmp.pl:2254
+#: translate_tmp.pl:9033
+#: translate_tmp.pl:10469
+#: translate_tmp.pl:10474
+#: translate_tmp.pl:10476
+msgid "Username"
+msgstr "Lietotājvārds"
+
+#: translate_tmp.pl:2260
+#: translate_tmp.pl:2271
+#: translate_tmp.pl:2273
+#: translate_tmp.pl:9056
+#: translate_tmp.pl:10481
+#: translate_tmp.pl:10488
+#: translate_tmp.pl:10490
+msgid "Password"
+msgstr "Parole"
+
+#: translate_tmp.pl:2279
+#: translate_tmp.pl:2288
+#: translate_tmp.pl:2290
+#: translate_tmp.pl:10495
+#: translate_tmp.pl:10500
+#: translate_tmp.pl:10502
+msgid "Website URL"
+msgstr "Tīmekļa vietnes adrese"
+
+#: translate_tmp.pl:2302
+#: translate_tmp.pl:3990
+msgid "Main"
+msgstr "Galvenā"
+
+#: translate_tmp.pl:2367
+msgid "Advanced"
+msgstr "Paplašināti"
+
+#: translate_tmp.pl:2418
+msgid "Image View"
+msgstr "Attēla skats"
+
+#: translate_tmp.pl:2439
+msgid "Behavior"
+msgstr "Rīcība"
+
+#: translate_tmp.pl:2477
+msgid "Keyboard"
+msgstr "Tastatūra"
+
+#: translate_tmp.pl:2498
+msgid "Upload"
+msgstr "Augšupielādēt"
+
+#: translate_tmp.pl:2559
+msgid "Plugins"
+msgstr "Spraudņi"
+
+#: translate_tmp.pl:2561
+msgid "The following plugins are installed"
+msgstr "Šādi spraudņi ir uzinstalēti"
+
+#: translate_tmp.pl:2894
+msgid "pixel"
+msgid_plural "pixels"
+msgstr[0] "pikselis"
+msgstr[1] "pikseļi"
+msgstr[2] "pikseļu"
+
+#: translate_tmp.pl:2904
+msgid "Quality"
+msgstr "Kvalitāte"
+
+#: translate_tmp.pl:2971
+msgid "Please activate the menu you want to capture"
+msgstr "Lūdzu, aktivizējiet izvēlni, kuru vēlaties uzņemt"
+
+#: translate_tmp.pl:2973
+msgid "Please activate the tooltip you want to capture"
+msgstr "Lūdzu, aktivizējiet paskaidri, kuru vēlaties uzņemt"
+
+#: translate_tmp.pl:2982
+#: translate_tmp.pl:2992
+#: translate_tmp.pl:198
+#: translate_tmp.pl:206
+#, perl-format
+msgid "Screenshot will be taken in %s second"
+msgid_plural "Screenshot will be taken in %s seconds"
+msgstr[0] "Ekrānuzņēmums tiks uzņemts pēc %s sekundes"
+msgstr[1] "Ekrānuzņēmums tiks uzņemts pēc %s sekundēm"
+msgstr[2] "Ekrānuzņēmums tiks uzņemts pēc %s sekunžu"
+
+#: translate_tmp.pl:3276
+#: translate_tmp.pl:9115
+msgid "Register"
+msgstr "Reģistrēties"
+
+#: translate_tmp.pl:3833
+msgid "Profile deleted"
+msgstr "Profils izdzēsts"
+
+#: translate_tmp.pl:3835
+#: translate_tmp.pl:3836
+msgid "Profile could not be deleted"
+msgstr "Neizdevās izdzēst profilu"
+
+#: translate_tmp.pl:3835
+#: translate_tmp.pl:5672
+#: translate_tmp.pl:5907
+#: translate_tmp.pl:6073
+#: translate_tmp.pl:6121
+#: translate_tmp.pl:6546
+#: translate_tmp.pl:7036
+#: translate_tmp.pl:10234
+#: translate_tmp.pl:107
+#: translate_tmp.pl:117
+msgid "Failed"
+msgstr "Neveiksmīgi"
+
+#: translate_tmp.pl:3854
+#, perl-format
+msgid "Profile %s loaded successfully"
+msgstr "Profils %s ielādēts veiksmīgi"
+
+#: translate_tmp.pl:3883
+#: translate_tmp.pl:7185
+msgid "Session"
+msgstr "Sesija"
+
+#: translate_tmp.pl:3902
+#: translate_tmp.pl:5370
+msgid "not found"
+msgstr "nav atrasts"
+
+#: translate_tmp.pl:4095
+msgid "Error while adding the file monitor."
+msgstr "Kļūda, pievienojot failu monitoru."
+
+#: translate_tmp.pl:4568
+msgid "Settings could not be saved!"
+msgstr "Neizdevās saglabāt iestatījumus!"
+
+#: translate_tmp.pl:4570
+msgid "Settings saved successfully!"
+msgstr "Iestatījumi veiksmīgi saglabāti"
+
+#: translate_tmp.pl:4594
+msgid "Session could not be saved!"
+msgstr "Neizdevās saglabāt sesiju!"
+
+#: translate_tmp.pl:4622
+msgid "Account-settings could not be saved!"
+msgstr "Neizdevās saglabāt konta iestatījumus!"
+
+#: translate_tmp.pl:4818
+msgid ""
+"The format looks like \"<Control>Print\" or \"<Shift><Alt>Print\". The "
+"parser is fairly liberal and allows lower or upper case, but abbreviations "
+"such as \"<Ctl>\" and \"<Ctrl>\" may cause problems under some circumstances "
+"(e.g. when using compiz)."
+msgstr ""
+"Formāts ir \"<Control>Print\" vai \"<Shift><Alt>Print\". Nav nozīmes vai "
+"izmanto lielos, vai mazos burtus, bet saīsinājumi, piemēram, \"<Ctl>\" un "
+"\"<Ctrl>\" var izraisīt problēmas noteiktos apstākļos (piemēram, izmantojot "
+"compiz)."
+
+#: translate_tmp.pl:4819
+msgid "There was an error configuring the keybindings."
+msgstr "Gadījās kļūda, konfigurējot taustiņu saistīšanu."
+
+#: translate_tmp.pl:5068
+msgid "Settings could not be restored!"
+msgstr "Neizdevās atjaunot iestatījumus!"
+
+#: translate_tmp.pl:5071
+msgid "Settings loaded successfully"
+msgstr "Iestatījumi veiksmīgi ielādēti"
+
+#: translate_tmp.pl:5099
+#: translate_tmp.pl:6963
+msgid "Built-in Editor"
+msgstr "Iebūvētais redaktors"
+
+#: translate_tmp.pl:5153
+msgid "Account-settings could not be restored!"
+msgstr "Neizdevās atjaunot konta iestatījumus!"
+
+#: translate_tmp.pl:5246
+#: translate_tmp.pl:5343
+msgid "opened"
+msgstr "atvērts"
+
+#: translate_tmp.pl:5248
+#: translate_tmp.pl:5345
+#: translate_tmp.pl:7766
+#: translate_tmp.pl:61
+#: translate_tmp.pl:6714
+#, perl-format
+msgid "Error while opening image %s."
+msgstr "Kļūda, mēģinot atvērt attēlu %s."
+
+#: translate_tmp.pl:5358
+msgid "Session could not be restored!"
+msgstr "Neizdevās atjaunot sesiju!"
+
+#: translate_tmp.pl:5410
+#, perl-format
+msgid "Error while creating the trashinfo file %s."
+msgstr "Kļūda, veidojot trashinfo failu %s."
+
+#: translate_tmp.pl:5421
+#, perl-format
+msgid "Error while moving the file %s to trash."
+msgstr "Kļūda, izmetot %s miskastē."
+
+#: translate_tmp.pl:5427
+#, perl-format
+msgid "Error while removing the file %s from disk."
+msgstr "Kļūda, aizvācot failu %s no diska."
+
+#: translate_tmp.pl:5447
+#, perl-format
+msgid "Are you sure you want to move %s to the trash?"
+msgstr "Vai tiešām vēlaties izmest %s miskastē?"
+
+#: translate_tmp.pl:5448
+#: translate_tmp.pl:5493
+#: translate_tmp.pl:209
+#: translate_tmp.pl:710
+msgid "Move to _Trash"
+msgstr "Izmes_t miskastē"
+
+#: translate_tmp.pl:5458
+msgid "deleted"
+msgstr "dzēsts"
+
+#: translate_tmp.pl:5492
+msgid "Are you sure you want to move the selected files to the trash?"
+msgstr "Vai tiešām vēlaties izmest iezīmētos failus miskastē?"
+
+#: translate_tmp.pl:5497
+#: translate_tmp.pl:5526
+#: translate_tmp.pl:5626
+msgid "No screenshots selected"
+msgstr "Nav atlasīts neviens ekrānuzņēmums"
+
+#: translate_tmp.pl:5542
+msgid "Selected screenshots deleted"
+msgstr "Atlasītie ekrānuzņēmumi ir izdzēsti"
+
+#: translate_tmp.pl:5578
+#: translate_tmp.pl:7616
+#: translate_tmp.pl:7644
+#: translate_tmp.pl:7674
+#: translate_tmp.pl:7709
+#: translate_tmp.pl:7744
+#: translate_tmp.pl:7774
+msgid "removed from session"
+msgstr "noņemts no sesijas"
+
+#: translate_tmp.pl:5642
+msgid "Selected screenshots removed"
+msgstr "Atlasītie ekrānuzņēmumi ir izņemti"
+
+#: translate_tmp.pl:5672
+#: translate_tmp.pl:6073
+msgid "No valid filetype specified"
+msgstr "Nav norādīts derīgs faila tips"
+
+#: translate_tmp.pl:5687
+msgid "There is no image data in the clipboard to paste"
+msgstr "Starpliktuvē nav informācijas ko ievietot"
+
+#: translate_tmp.pl:5746
+msgid "Selected filenames copied to clipboard"
+msgstr "Atlasītie failu nosaukumi ir iekopēti starpliktuvē"
+
+#: translate_tmp.pl:5761
+msgid "Selected images copied to clipboard"
+msgstr "Atlasītie attēli ir iekopēti starpliktuvē"
+
+#: translate_tmp.pl:5808
+msgid "Last action undone"
+msgstr "Pēdējā darbība ir atcelta"
+
+#: translate_tmp.pl:5816
+#: translate_tmp.pl:5868
+#, perl-format
+msgid "Error while copying last version (%s)."
+msgstr "Kļūda, kopējot pēdējo versiju (%s)."
+
+#: translate_tmp.pl:5817
+#, perl-format
+msgid "There was an error performing undo on %s."
+msgstr "Gadījās kļūda, veicot atsaukšanu uz %s."
+
+#: translate_tmp.pl:5860
+msgid "Last action redone"
+msgstr "Pēdējā darbība atkārtota"
+
+#: translate_tmp.pl:5869
+#, perl-format
+msgid "There was an error performing redo on %s."
+msgstr "Gadījās kļūda, atceļot atsaukšanu uz %s."
+
+#: translate_tmp.pl:5907
+msgid "No plugin installed"
+msgstr "Nav instalētu spraudņu"
+
+#: translate_tmp.pl:6120
+#: translate_tmp.pl:6545
+#: translate_tmp.pl:7951
+msgid "There was an error determining the filename."
+msgstr "Gadījās kļūda, nosakot faila nosaukumu."
+
+#: translate_tmp.pl:6442
+msgid "Triggered invalid screenshot action."
+msgstr "Palaista nederīga ekrānuzņēmuma darbība."
+
+#: translate_tmp.pl:6443
+#: translate_tmp.pl:6446
+#: translate_tmp.pl:6724
+#: translate_tmp.pl:6726
+#: translate_tmp.pl:81
+#: translate_tmp.pl:89
+#: translate_tmp.pl:97
+#: translate_tmp.pl:112
+#: translate_tmp.pl:120
+#: translate_tmp.pl:128
+#: translate_tmp.pl:140
+#: translate_tmp.pl:154
+#: translate_tmp.pl:164
+msgid "Error while taking the screenshot."
+msgstr "Kļūda, uzņemot ekrānuzņēmumu."
+
+#: translate_tmp.pl:6573
+#: translate_tmp.pl:134
+msgid "Capture aborted by user"
+msgstr "Uzņemšana pārtraukta pēc lietotāja pieprasījuma"
+
+#: translate_tmp.pl:6692
+#: translate_tmp.pl:6709
+#, perl-format
+msgid "%s saved"
+msgstr "%s saglabāts"
+
+#: translate_tmp.pl:6698
+#: translate_tmp.pl:6700
+#: translate_tmp.pl:6714
+msgid "Screenshot saved"
+msgstr "Ekrānuzņēmums saglabāts"
+
+#: translate_tmp.pl:6723
+#, perl-format
+msgid ""
+"The filename %s could not be verified. Maybe it contains unsupported "
+"characters."
+msgstr ""
+"Faila nosaukumu %s neizdevās pārbaudīt. Iespējams tas satur neatbalstītas "
+"rakstzīmes."
+
+#: translate_tmp.pl:6963
+#: translate_tmp.pl:6971
+#, perl-format
+msgid "%s opened with %s"
+msgstr "%s atvērts ar %s"
+
+#: translate_tmp.pl:6995
+msgid "Opened all files with"
+msgstr "Atvēra visus failus ar"
+
+#: translate_tmp.pl:7036
+#: translate_tmp.pl:7056
+#, perl-format
+msgid "Could not apply plugin %s"
+msgstr "Nevarēja pielietot spraudni %s"
+
+#: translate_tmp.pl:7054
+#: translate_tmp.pl:7105
+#, perl-format
+msgid "Successfully applied plugin %s"
+msgstr "Spraudnis %s veiksmīgi pielietots"
+
+#: translate_tmp.pl:7108
+#, perl-format
+msgid "Error while executing plugin %s."
+msgstr "Kļūda, izpildot spraudni %s."
+
+#: translate_tmp.pl:7109
+msgid "There was an error executing the plugin."
+msgstr "Gadījās kļūda, izpildot spraudni."
+
+#: translate_tmp.pl:7187
+#, perl-format
+msgid "%s screenshot"
+msgid_plural "%s screenshots"
+msgstr[0] "%s ekrānuzņēmums"
+msgstr[1] "%s ekrānuzņēmumi"
+msgstr[2] "%s ekrānuzņēmumu"
+
+#: translate_tmp.pl:7199
+msgid "Current profile"
+msgstr "Aktuālais profils"
+
+#: translate_tmp.pl:7607
+msgid "Try to resave the file?"
+msgstr "Mēģināt saglabāt vēlreiz?"
+
+#: translate_tmp.pl:7608
+#, perl-format
+msgid "Image %s was not found on disk"
+msgstr "Attēls %s netika atrasts uz diska"
+
+#: translate_tmp.pl:7636
+#: translate_tmp.pl:7701
+#: translate_tmp.pl:181
+#, perl-format
+msgid "Error while saving the image %s."
+msgstr "Kļūda, saglabājot attēlu %s."
+
+#: translate_tmp.pl:7637
+#: translate_tmp.pl:7702
+#: translate_tmp.pl:182
+#, perl-format
+msgid "There was an error saving the image to %s."
+msgstr "Gadījās kļūda, saglabājot attēlu uz %s."
+
+#: translate_tmp.pl:7665
+#: translate_tmp.pl:9970
+#: translate_tmp.pl:9975
+#: translate_tmp.pl:10042
+#: translate_tmp.pl:10048
+msgid "saved"
+msgstr "saglabāts"
+
+#: translate_tmp.pl:7735
+#, perl-format
+msgid "Image %s was deleted from filesystem"
+msgstr "Attēls %s tika izdzēsts no failu sistēmas"
+
+#: translate_tmp.pl:7767
+#: translate_tmp.pl:62
+#: translate_tmp.pl:6715
+msgid "There was an error opening the image."
+msgstr "Gadījās kļūda, atverot attēlu."
+
+#: translate_tmp.pl:7950
+#, perl-format
+msgid "Error while opening directory %s."
+msgstr "Kļūda, atverot direktoriju %s."
+
+#: translate_tmp.pl:8020
+msgid "Updating plugin information"
+msgstr "Atjaunina spraudņu informāciju"
+
+#: translate_tmp.pl:8025
+msgid "Please wait while Shutter updates the plugin information"
+msgstr "Lūdzu, uzgaidiet, kamēr Shutter atjaunina spraudņu informāciju"
+
+#: translate_tmp.pl:8163
+msgid "Updating upload plugin information"
+msgstr "Atjaunina augšupielādes spraudņu informāciju"
+
+#: translate_tmp.pl:8168
+msgid "Please wait while Shutter updates the upload plugin information"
+msgstr ""
+"Lūdzu, uzgaidiet, kamēr Shutter atjaunina augšupielādes spraudņu informāciju"
+
+#: translate_tmp.pl:8375
+msgid "Capture All Workspaces"
+msgstr "Uzņemt visas darbvirsmas"
+
+#: translate_tmp.pl:8388
+msgid "Limit to current monitor"
+msgstr "Pašreizējā monitora robežās"
+
+#: translate_tmp.pl:8403
+#, perl-format
+msgid ""
+"This option is only useful when you are running a multi-monitor system (%d "
+"monitor detected).\n"
+"Enable it to capture only the current monitor."
+msgid_plural ""
+"This option is only useful when you are running a multi-monitor system (%d "
+"monitors detected).\n"
+"Enable it to capture only the current monitor."
+msgstr[0] ""
+"Šī opcija ir noderīga tikai tad, ja tiek izmantota vairāku monitoru sistēma "
+"(%d monitors atklāts).\n"
+"Aktivizējiet to, lai uzņemtu tikai pašreizējo monitoru."
+msgstr[1] ""
+"Šī opcija ir noderīga tikai tad, ja tiek izmantota vairāku monitoru sistēma "
+"(%d monitori atklāti).\n"
+"Aktivizējiet to, lai uzņemtu tikai pašreizējo monitoru."
+msgstr[2] ""
+"Šī opcija ir noderīga tikai tad, ja tiek izmantota vairāku monitoru sistēma "
+"(%d monitoru atklāti).\n"
+"Aktivizējiet to, lai uzņemtu tikai pašreizējo monitoru."
+
+#: translate_tmp.pl:8447
+msgid "Capture the last active window"
+msgstr "Uzņemt pēdējo aktīvo logu"
+
+#: translate_tmp.pl:8486
+#: translate_tmp.pl:403
+msgid "_Selection"
+msgstr "Iezīmētai_s"
+
+#: translate_tmp.pl:8512
+#: translate_tmp.pl:429
+msgid "_Desktop"
+msgstr "_Darbvirsma"
+
+#: translate_tmp.pl:8546
+msgid "Window _under Cursor"
+msgstr "Logs zem k_ursora"
+
+#: translate_tmp.pl:8562
+#: translate_tmp.pl:459
+msgid "Select W_indow"
+msgstr "_Izvēlēties logu"
+
+#: translate_tmp.pl:8576
+#: translate_tmp.pl:472
+msgid "Se_ction"
+msgstr "_Sadaļa"
+
+#: translate_tmp.pl:8595
+#: translate_tmp.pl:488
+msgid "_Menu"
+msgstr "_Izvēlne"
+
+#: translate_tmp.pl:8614
+#: translate_tmp.pl:504
+msgid "_Tooltip"
+msgstr "_Paskaidre"
+
+#: translate_tmp.pl:8633
+#: translate_tmp.pl:522
+msgid "_Web"
+msgstr "_Tīmeklis"
+
+#: translate_tmp.pl:8650
+#: translate_tmp.pl:395
+msgid "_Redo last screenshot"
+msgstr "_Atkārtot pēdējo ekrānuzņēmumu"
+
+#: translate_tmp.pl:8661
+#: translate_tmp.pl:223
+msgid "_Quick profile select"
+msgstr "_Ātrā profila atlase"
+
+#: translate_tmp.pl:8704
+msgid "Advanced selection tool"
+msgstr "Paplašinātais iezīmētā reģiona uzņemšanas rīks"
+
+#: translate_tmp.pl:8707
+msgid "Simple selection tool"
+msgstr "Iezīmētā reģiona uzņemšanas rīks"
+
+#: translate_tmp.pl:8724
+msgid ""
+"The advanced selection tool allows you to enlarge/shrink or move your "
+"selected area\n"
+"until you finally take the screenshot."
+msgstr ""
+"Paplašinātais iezīmētā reģiona uzņemšanas rīks ļauj palielināt/samazināt vai "
+"pārvietot iezīmēto apgabalu, pirms tiek veikts ekrānuzņēmums."
+
+#: translate_tmp.pl:8727
+msgid ""
+"The simple selection tool is the fastest way of taking a screenshot.\n"
+"It provides an optional zoom window for precise shots."
+msgstr ""
+"Vienkāršais iezīmētā reģiona uzņemšanas rīks ir ātrākais veids, kā veikt "
+"ekrānuzņēmumu.\n"
+"Tas nodrošina, opcionālu tālummaiņas logu precīzai uzņemšanai."
+
+#: translate_tmp.pl:8855
+msgid "Wait indefinitely"
+msgstr "Gaidīt bezgalīgi"
+
+#: translate_tmp.pl:8856
+#: translate_tmp.pl:8857
+#, perl-format
+msgid "Wait max %d second"
+msgid_plural "Wait max %d seconds"
+msgstr[0] "Gaidīt maksimums %d sekundi"
+msgstr[1] "Gaidīt maksimums %d sekundes"
+msgstr[2] "Gaidīt maksimums %d sekunžu"
+
+#: translate_tmp.pl:8858
+#: translate_tmp.pl:8859
+#, perl-format
+msgid "Wait max %d minute"
+msgid_plural "Wait max %d minutes"
+msgstr[0] "Gaidīt maksimums %d minūti"
+msgstr[1] "Gaidīt maksimums %d minūtes"
+msgstr[2] "Gaidīt maksimums %d minūšu"
+
+#: translate_tmp.pl:8867
+msgid "Shutter will wait indefinitely for the screenshot to capture"
+msgstr "Shutter gaidīs nenoteiktu laiku, lai uzņemtu ekrānuzņēmumu"
+
+#: translate_tmp.pl:8868
+#: translate_tmp.pl:8869
+#, perl-format
+msgid ""
+"Shutter will wait up to %d second for the screenshot to capture before "
+"aborting the process if it's taking too long"
+msgid_plural ""
+"Shutter will wait up to %d seconds for the screenshot to capture before "
+"aborting the process if it's taking too long"
+msgstr[0] ""
+"Shutter gaidīs līdz pat %d sekundi, lai uzņemtu ekrānuzņēmumu, pirms "
+"pārtrauks procesu, ja tas aizņem pārāk ilgu laiku."
+msgstr[1] ""
+"Shutter gaidīs līdz pat %d sekundēm, lai uzņemtu ekrānuzņēmumu, pirms "
+"pārtrauks procesu, ja tas aizņem pārāk ilgu laiku."
+msgstr[2] ""
+"Shutter gaidīs līdz pat %d sekunžu, lai uzņemtu ekrānuzņēmumu, pirms "
+"pārtrauks procesu, ja tas aizņem pārāk ilgu laiku."
+
+#: translate_tmp.pl:8870
+#: translate_tmp.pl:8871
+#, perl-format
+msgid ""
+"Shutter will wait up to %d minute for the screenshot to capture before "
+"aborting the process if it's taking too long"
+msgid_plural ""
+"Shutter will wait up to %d minutes for the screenshot to capture before "
+"aborting the process if it's taking too long"
+msgstr[0] ""
+"Shutter gaidīs līdz pat %d minūti, lai uzņemtu ekrānuzņēmumu, pirms "
+"pārtrauks procesu, ja tas aizņem pārāk ilgu laiku."
+msgstr[1] ""
+"Shutter gaidīs līdz pat %d minūtēm, lai uzņemtu ekrānuzņēmumu, pirms "
+"pārtrauks procesu, ja tas aizņem pārāk ilgu laiku."
+msgstr[2] ""
+"Shutter gaidīs līdz pat %d minūšu, lai uzņemtu ekrānuzņēmumu, pirms "
+"pārtrauks procesu, ja tas aizņem pārāk ilgu laiku."
+
+#: translate_tmp.pl:9024
+msgid "Host"
+msgstr "Saimnieks"
+
+#: translate_tmp.pl:9081
+msgid "Anonymous Upload"
+msgstr "Anonīma augšupielāde"
+
+#: translate_tmp.pl:9088
+msgid "Authorized Upload"
+msgstr "Autorizēta augšupielāde"
+
+#: translate_tmp.pl:9095
+msgid "OAuth Upload"
+msgstr "OAuth augšupielāde"
+
+#: translate_tmp.pl:9106
+#: translate_tmp.pl:9167
+#: translate_tmp.pl:10157
+msgid "Description"
+msgstr "Apraksts"
+
+#: translate_tmp.pl:9138
+msgid "Icon"
+msgstr "Ikona"
+
+#: translate_tmp.pl:9147
+msgid "Name"
+msgstr "Vārds"
+
+#: translate_tmp.pl:9157
+msgid "Category"
+msgstr "Kategorija"
+
+#: translate_tmp.pl:9177
+msgid "Language"
+msgstr "Valoda"
+
+#: translate_tmp.pl:9186
+msgid "Path"
+msgstr "Ceļš"
+
+#: translate_tmp.pl:9232
+#: translate_tmp.pl:10532
+msgid "Ubuntu One"
+msgstr "Ubuntu One"
+
+#: translate_tmp.pl:9241
+msgid "Successfully published"
+msgstr "Veiksmīgi publicēts"
+
+#: translate_tmp.pl:9241
+#, perl-format
+msgid "The file %s was successfully published: %s"
+msgstr "Fails %s tika veiksmīgi publicēts: %s"
+
+#: translate_tmp.pl:9244
+#, perl-format
+msgid "%s published"
+msgstr "%s publicēts"
+
+#: translate_tmp.pl:9256
+msgid "Unpublished"
+msgstr "Nepublicēts"
+
+#: translate_tmp.pl:9256
+#, perl-format
+msgid ""
+"The file %s is no longer published. The external link is not available "
+"anymore."
+msgstr "Fails %s vairs netiek publicēts. Ārējā saite vairs nav pieejama."
+
+#: translate_tmp.pl:9259
+#, perl-format
+msgid "The file %s is no longer published."
+msgstr "Fails %s vairs netiek publicēts."
+
+#: translate_tmp.pl:9450
+msgid "Rename"
+msgstr "Pārdēvēt"
+
+#: translate_tmp.pl:9454
+#, perl-format
+msgid "Rename image %s"
+msgstr "Pārdēvēt attēlu %s"
+
+#: translate_tmp.pl:9456
+msgid "New filename"
+msgstr "Jauns faila nosaukums"
+
+#: translate_tmp.pl:9459
+msgid "_Rename"
+msgstr "_Pārdēvēt"
+
+#: translate_tmp.pl:9558
+#: translate_tmp.pl:9610
+msgid "renamed"
+msgstr "pārdēvēts"
+
+#: translate_tmp.pl:9566
+#: translate_tmp.pl:9618
+#: translate_tmp.pl:9658
+#, perl-format
+msgid "Error while renaming the image %s."
+msgstr "Kļūda, pārsaucot attēlu %s."
+
+#: translate_tmp.pl:9567
+#: translate_tmp.pl:9619
+#: translate_tmp.pl:9659
+#, perl-format
+msgid "There was an error renaming the image to %s."
+msgstr "Gadījās kļūda, pārdēvējot attēlu uz %s."
+
+#: translate_tmp.pl:9579
+#: translate_tmp.pl:9997
+#: translate_tmp.pl:11001
+#: translate_tmp.pl:11251
+#: translate_tmp.pl:1615
+msgid "_Replace"
+msgstr "_Aizvietot"
+
+#: translate_tmp.pl:9585
+#: translate_tmp.pl:10001
+#: translate_tmp.pl:11015
+#: translate_tmp.pl:1619
+#, perl-format
+msgid ""
+"The image already exists in %s. Replacing it will overwrite its contents."
+msgstr "Attēls %s jau eksistē. Aizstājot tas tiks pārrakstīts."
+
+#: translate_tmp.pl:9586
+#: translate_tmp.pl:10002
+#: translate_tmp.pl:11016
+#: translate_tmp.pl:1620
+#, perl-format
+msgid "An image named %s already exists. Do you want to replace it?"
+msgstr "Attēls ar nosaukumu %s jau eksistē. Vai vēlaties to aizstāt?"
+
+#: translate_tmp.pl:9662
+msgid "Invalid Filename"
+msgstr "Nederīgs faila nosaukums"
+
+#: translate_tmp.pl:9687
+#: translate_tmp.pl:6341
+msgid "Choose file to open"
+msgstr "Izvēlieties failu ko atvērt"
+
+#: translate_tmp.pl:9716
+#: translate_tmp.pl:6369
+msgid "All compatible image formats"
+msgstr "Visi pieejamie attēlu formāti"
+
+#: translate_tmp.pl:9792
+#: translate_tmp.pl:1448
+msgid "Choose a location to save to"
+msgstr "Izvēlieties vietu, kur saglabāt"
+
+#: translate_tmp.pl:10089
+msgid "Choose a plugin"
+msgstr "Izvēlieties spraudni"
+
+#: translate_tmp.pl:10094
+msgid "_Run"
+msgstr "_Palaist"
+
+#: translate_tmp.pl:10144
+msgid "Plugin"
+msgstr "Spraudnis"
+
+#: translate_tmp.pl:10234
+msgid "No plugin specified"
+msgstr "Nav norādīts spraudnis"
+
+#: translate_tmp.pl:10283
+msgid "Upload / Export"
+msgstr "Augšupielādēt / eksportēt"
+
+#: translate_tmp.pl:10287
+#: translate_tmp.pl:10541
+msgid "_Upload"
+msgstr "A_ugšupielādēt"
+
+#: translate_tmp.pl:10309
+msgid "Guest"
+msgstr "Viesis"
+
+#: translate_tmp.pl:10314
+msgid "OAuth"
+msgstr "OAuth"
+
+#: translate_tmp.pl:10349
+msgid ""
+"Please choose one of the accounts above and click <i>Upload</i>. The upload "
+"links will still be available in the screenshot's <i>right-click menu</i> "
+"after closing this dialog."
+msgstr ""
+"Lūdzu, izvēlieties kādu no kontiem augšā un nospiediet <i>Augšupielādēt</i>. "
+"Augšupielādes saites joprojām būs pieejamas <i>labā-klikšķa izvēlnē</i> pēc "
+"šī dialoglodziņa aizvēršanas."
+
+#: translate_tmp.pl:10354
+msgid ""
+"<b>Please note:</b> If a plugin allows only authorized uploading you need to "
+"enter your credentials in preferences first to make it appear in the list "
+"above."
+msgstr ""
+"<b>Piezīme:</b> Ja spraudnis atļauj tikai autorizētu augšupielādi ir "
+"nepieciešams ievadīt savus pieteikšanās datus iestatījumos, lai tie "
+"uzrādītos sarakstā augšā."
+
+#: translate_tmp.pl:10358
+msgid "Choose account"
+msgstr "Izvēlieties kontu"
+
+#: translate_tmp.pl:10386
+msgid "Status"
+msgstr "Statuss"
+
+#: translate_tmp.pl:10529
+msgid "Public hosting"
+msgstr "Publiska mitināšana"
+
+#: translate_tmp.pl:10531
+msgid "Places"
+msgstr "Vietas"
+
+#: translate_tmp.pl:10544
+msgid "_Export"
+msgstr "_Eksportēt"
+
+#: translate_tmp.pl:10547
+msgid "_Publish"
+msgstr "_Publicēt"
+
+#: translate_tmp.pl:10574
+#: translate_tmp.pl:164
+msgid "Disconnected"
+msgstr "Atvienots"
+
+#: translate_tmp.pl:10595
+#: translate_tmp.pl:10633
+#, perl-format
+msgid ""
+"Folder %s is synchronized with Ubuntu One. The selected file will be copied "
+"to that folder before being published."
+msgid_plural ""
+"Folder %s is synchronized with Ubuntu One. The selected files will be copied "
+"to that folder before being published."
+msgstr[0] ""
+"Mape %s ir sinhronizēta ar Ubuntu One. Izvēlētais fails tiks iekopēts tajā "
+"pirms publicēšanas."
+msgstr[1] ""
+"Mape %s ir sinhronizēta ar Ubuntu One. Izvēlētie faili tiks iekopēti tajā "
+"pirms publicēšanas."
+msgstr[2] ""
+"Mape %s ir sinhronizēta ar Ubuntu One. Izvēlētie faili tiks iekopēti tajā "
+"pirms publicēšanas."
+
+#: translate_tmp.pl:10600
+#: translate_tmp.pl:10638
+msgid ""
+"<b>Please note:</b> The selected file will be published in a background "
+"process. You will be notified when the process has finished."
+msgid_plural ""
+"<b>Please note:</b> The selected files will be published in a background "
+"process. You will be notified when the process has finished."
+msgstr[0] ""
+"<b>Piezīme:</b> Izvēlētais fails tiks publicēts fona procesā. Jums tiks "
+"paziņots, kad process ir noslēdzies."
+msgstr[1] ""
+"<b>Piezīme:</b> Izvēlētie faili tiks publicēti fona procesā. Jums tiks "
+"paziņots, kad process ir noslēdzies."
+msgstr[2] ""
+"<b>Piezīme:</b> Izvēlētie faili tiks publicēti fona procesā. Jums tiks "
+"paziņots, kad process ir noslēdzies."
+
+#: translate_tmp.pl:10607
+#: translate_tmp.pl:10645
+#, perl-format
+msgid ""
+"Folder %s is not synchronized with Ubuntu One. Please choose an alternative "
+"folder."
+msgstr ""
+"Mape %s nav sinhronizēta ar Ubuntu One. Lūdzu, izvēlieties citu mapi."
+
+#: translate_tmp.pl:10663
+msgid "Ubuntu One service cannot be found."
+msgstr "Ubuntu One pakalpojums nav atrasts."
+
+#: translate_tmp.pl:10670
+msgid ""
+"/publicfiles is not available. Your Ubuntu One installation seems to be out "
+"of date."
+msgstr ""
+"/publicfiles nav pieejams. Ubuntu One instalācija, šķiet, ir novecojusi."
+
+#: translate_tmp.pl:10677
+msgid ""
+"Net::DBus::GLib/libnet-dbus-glib-perl needs to be installed for this feature"
+msgstr ""
+"Ir nepieciešams uzinstalēt 'Net::DBus::GLib/libnet-dbus-glib-perl', lai "
+"izmantotu šo iespēju"
+
+#: translate_tmp.pl:10740
+#, perl-format
+msgid "Loading module %s"
+msgstr "Ielādē moduli %s"
+
+#: translate_tmp.pl:10753
+#, perl-format
+msgid "Error while executing upload plugin %s."
+msgstr "Kļūda, izpildot augšupielādes spraudni %s."
+
+#: translate_tmp.pl:10754
+msgid "There was an error executing the upload plugin."
+msgstr "Gadījās kļūda, izpildot augšupielādes spraudni."
+
+#: translate_tmp.pl:10791
+#: translate_tmp.pl:10862
+#: translate_tmp.pl:10966
+#: translate_tmp.pl:11042
+msgid "uploaded"
+msgstr "augšupielādēts"
+
+#: translate_tmp.pl:10866
+#: translate_tmp.pl:10969
+#: translate_tmp.pl:11045
+msgid "Successfully uploaded"
+msgstr "Veiksmīgi augšupielādēts"
+
+#: translate_tmp.pl:10866
+#: translate_tmp.pl:10969
+#: translate_tmp.pl:11045
+#, perl-format
+msgid "The file %s was successfully uploaded."
+msgstr "Fails %s tika veiksmīgi augšupielādēts."
+
+#: translate_tmp.pl:10884
+#: translate_tmp.pl:11017
+#: translate_tmp.pl:11141
+#: translate_tmp.pl:11169
+#: translate_tmp.pl:11177
+msgid "Skip all"
+msgstr "Izlaist visu"
+
+#: translate_tmp.pl:10885
+#: translate_tmp.pl:11017
+#: translate_tmp.pl:11142
+#: translate_tmp.pl:11169
+#: translate_tmp.pl:11177
+msgid "Skip"
+msgstr "Izlaist"
+
+#: translate_tmp.pl:10886
+#: translate_tmp.pl:11177
+msgid "Retry"
+msgstr "Mēģināt vēlreiz"
+
+#: translate_tmp.pl:10961
+#: translate_tmp.pl:11037
+msgid "exported"
+msgstr "eksportēts"
+
+#: translate_tmp.pl:10964
+#: translate_tmp.pl:11040
+msgid "Successfully exported"
+msgstr "Veiksmīgi eksportēts"
+
+#: translate_tmp.pl:10964
+#: translate_tmp.pl:11040
+#, perl-format
+msgid "The file %s was successfully exported."
+msgstr "Fails %s tika sekmīgi eksportēts."
+
+#: translate_tmp.pl:10974
+#: translate_tmp.pl:11050
+#, perl-format
+msgid "Publishing %s..."
+msgstr "Publicē %s..."
+
+#: translate_tmp.pl:11135
+msgid "_Retry"
+msgstr "Vēl_reiz"
+
+#: translate_tmp.pl:11139
+#, perl-format
+msgid "Error while copying the image %s."
+msgstr "Kļūda, kopējot attēlu %s."
+
+#: translate_tmp.pl:11140
+#, perl-format
+msgid "There was an error copying the image into %s."
+msgstr "Gadījās kļūda, kopējot attēlu uz %s."
+
+#: translate_tmp.pl:11162
+#: translate_tmp.pl:89
+msgid "Please check your credentials and try again."
+msgstr "Lūdzu, pārbaudiet jūsu akreditācijas datus un mēģiniet vēlreiz."
+
+#: translate_tmp.pl:11163
+msgid "Error while login"
+msgstr "Kļūda, piesakoties"
+
+#: translate_tmp.pl:11167
+msgid "Maximum filesize reached"
+msgstr "Maksimālais faila izmērs sasniegts"
+
+#: translate_tmp.pl:11168
+msgid "Error while uploading"
+msgstr "Kļūda, augšupielādējot"
+
+#: translate_tmp.pl:11171
+#, perl-format
+msgid "Maximum filesize: %s"
+msgstr "Maksimālais faila izmērs: %s"
+
+#: translate_tmp.pl:11176
+msgid "Error while connecting"
+msgstr "Kļūda, pieslēdzoties"
+
+#: translate_tmp.pl:11192
+msgid "Save current preferences as new profile"
+msgstr "Saglabāt pašreizējos iestatījumus kā jaunu profilu"
+
+#: translate_tmp.pl:11194
+msgid "New profile name"
+msgstr "Jauns profila vārds"
+
+#: translate_tmp.pl:11255
+msgid "Replacing it will overwrite its contents."
+msgstr "Aizvietojot to, tiks pārrakstīs tā saturs."
+
+#: translate_tmp.pl:11256
+#, perl-format
+msgid "A profile named %s already exists. Do you want to replace it?"
+msgstr "Profila nosaukumu %s jau eksistē. Vai vēlaties to aizstāt?"
+
+#: translate_tmp.pl:79
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Mario Kemper (Romario) https://launchpad.net/~mario-kemper\n"
+"  tuxmaniack https://launchpad.net/~tuxmaniack"
+
+#: translate_tmp.pl:34
+#: translate_tmp.pl:5864
+msgid "_File"
+msgstr "_Fails"
+
+#: translate_tmp.pl:39
+#: translate_tmp.pl:5865
+msgid "_Edit"
+msgstr "R_ediģēt"
+
+#: translate_tmp.pl:44
+#: translate_tmp.pl:5867
+msgid "_View"
+msgstr "S_kats"
+
+#: translate_tmp.pl:49
+msgid "_Screenshot"
+msgstr "Ekrānuzņēmum_s"
+
+#: translate_tmp.pl:54
+msgid "_Go"
+msgstr "_Iet"
+
+#: translate_tmp.pl:59
+msgid "_Help"
+msgstr "_Palīdzība"
+
+#: translate_tmp.pl:87
+msgid "_Open..."
+msgstr "_Atvērt..."
+
+#: translate_tmp.pl:92
+msgid "Recent _Files"
+msgstr "Nesenie _faili"
+
+#: translate_tmp.pl:103
+msgid "Save _As..."
+msgstr "S_aglabāt kā..."
+
+#: translate_tmp.pl:114
+#: translate_tmp.pl:5922
+msgid "E_xport to PDF..."
+msgstr "_Eksportēt PDF..."
+
+#: translate_tmp.pl:119
+#: translate_tmp.pl:5925
+msgid "Export to Post_Script..."
+msgstr "Eksportēt Post_Script..."
+
+#: translate_tmp.pl:129
+msgid "Page Set_up"
+msgstr "Lapas iestatīj_umi"
+
+#: translate_tmp.pl:136
+msgid "_Print..."
+msgstr "_Drukāt..."
+
+#: translate_tmp.pl:144
+msgid "Send by E_mail..."
+msgstr "Sūtīt uz e-_pastu..."
+
+#: translate_tmp.pl:159
+msgid "C_lose all"
+msgstr "_Aizvērt visu"
+
+#: translate_tmp.pl:204
+#: translate_tmp.pl:705
+msgid "Copy _Filename"
+msgstr "Kopēt _faila nosaukumu"
+
+#: translate_tmp.pl:246
+msgid "Show Navigation _Toolbar"
+msgstr "Rādī_t navigācijas rīkjoslu"
+
+#: translate_tmp.pl:328
+msgid "Get Help Online..."
+msgstr "Palīdzība tiešsaistē..."
+
+#: translate_tmp.pl:343
+msgid "Translate this Application..."
+msgstr "Tulkot šo lietotni..."
+
+#: translate_tmp.pl:358
+msgid "Report a Problem"
+msgstr "Ziņot par problēmu"
+
+#: translate_tmp.pl:446
+msgid "_Active Window"
+msgstr "_Aktīvais logs"
+
+#: translate_tmp.pl:538
+msgid "Import from clip_board"
+msgstr "_Importēt no starpliktuves"
+
+#: translate_tmp.pl:558
+#: translate_tmp.pl:655
+msgid "Open wit_h"
+msgstr "Atvē_rt ar"
+
+#: translate_tmp.pl:565
+#: translate_tmp.pl:662
+msgid "Show in _folder"
+msgstr "Rādīt _mapē"
+
+#: translate_tmp.pl:572
+#: translate_tmp.pl:669
+msgid "_Rename..."
+msgstr "_Pārdēvēt..."
+
+#: translate_tmp.pl:581
+#: translate_tmp.pl:677
+msgid "_Send To..."
+msgstr "_Sūtīt uz..."
+
+#: translate_tmp.pl:590
+#: translate_tmp.pl:685
+msgid "E_xport..."
+msgstr "_Eksportēt..."
+
+#: translate_tmp.pl:597
+#: translate_tmp.pl:691
+msgid "Public URLs"
+msgstr "Publiskās saites"
+
+#: translate_tmp.pl:605
+#: translate_tmp.pl:718
+msgid "_Edit..."
+msgstr "R_ediģēt..."
+
+#: translate_tmp.pl:622
+msgid "Run a _plugin..."
+msgstr "Palaist s_praudni..."
+
+#: translate_tmp.pl:631
+#: translate_tmp.pl:742
+msgid "Redo _this screenshot"
+msgstr "A_tkārtot šo ekrānuzņēmumu"
+
+#: translate_tmp.pl:734
+msgid "Run a _Plugin..."
+msgstr "Palaist s_praudni..."
+
+#: translate_tmp.pl:40
+msgid "Redo last screenshot"
+msgstr "Atkārtot pēdējo ekrānuzņēmumu"
+
+#: translate_tmp.pl:70
+msgid ""
+"Draw a rectangular capture area with your mouse\n"
+"to select a specified screen area"
+msgstr ""
+"Iezīmēt taisnstūrveida apgabalu, izmantojot peli,\n"
+"lai uzņemtu noteiktu ekrāna daļu"
+
+#: translate_tmp.pl:71
+msgid "Choose selection tool"
+msgstr "Izvēlieties iezīmēšanas rīku"
+
+#: translate_tmp.pl:90
+msgid "Desktop"
+msgstr "Darbvirsma"
+
+#: translate_tmp.pl:93
+msgid "Take a screenshot of your whole desktop"
+msgstr "Veikt visas darbvirsmas ekrānuzņēmumu"
+
+#: translate_tmp.pl:94
+msgid "Capture a specific workspace"
+msgstr "Uzņemt noteiktu darbvietu"
+
+#: translate_tmp.pl:132
+msgid "Window"
+msgstr "Logs"
+
+#: translate_tmp.pl:135
+msgid "Select a window with your mouse"
+msgstr "Izvēlieties logu ar peli"
+
+#: translate_tmp.pl:136
+msgid "Take a screenshot of a specific window"
+msgstr "Veikt noteikta loga ekrānuzņēmumu"
+
+#: translate_tmp.pl:154
+msgid ""
+"Captures only a section of the window. You will be able to select any child "
+"window by moving the mouse over it"
+msgstr ""
+"Uzņemt tikai daļu loga. Jums būs iespēja izvēlēties jebkuru logu, virzot "
+"peli pār to."
+
+#: translate_tmp.pl:174
+msgid "Select a single menu or cascading menus from any application"
+msgstr "Izvēlieties vienu izvēlni vai kaskādizvēlnes, no jebkuras lietotnes"
+
+#: translate_tmp.pl:194
+msgid "Capture a tooltip"
+msgstr "Uzņemt paskaidri"
+
+#: translate_tmp.pl:212
+#: translate_tmp.pl:79
+msgid "Take a screenshot of a website"
+msgstr "Veikt tīmekļa vietnes ekrānuzņēmumu"
+
+#: translate_tmp.pl:213
+msgid ""
+"Set how long Shutter will wait for the screenshot to complete before "
+"aborting the process if it's taking too long"
+msgstr ""
+"Uzstādiet, cik ilgi Shutter gaidīs, lai uzņemtu ekrānuzņēmumu, pirms "
+"pārtrauks procesu, ja tas aizņem pārāk ilgu laiku."
+
+#: translate_tmp.pl:234
+msgid "Edit"
+msgstr "Rediģēt"
+
+#: translate_tmp.pl:237
+msgid ""
+"Use the built-in editor to highlight important fragments of your screenshot "
+"or crop it to a desired size"
+msgstr ""
+"Izmantojiet iebūvēto redaktoru, lai izceltu svarīgu fragmentu jūsu "
+"ekrānuzņēmumā vai apcērtiet to vēlamajā izmērā"
+
+#: translate_tmp.pl:244
+msgid "Export"
+msgstr "Eksportēt"
+
+#: translate_tmp.pl:247
+msgid ""
+"Upload your images to an image hosting service, FTP site or export them to "
+"an arbitrary folder"
+msgstr ""
+"Augšupielādēt attēlus uz attēlu mitināšanas pakalpojumu, FTP vietni vai "
+"eksportēt tos uz noteiktu mapi"
+
+#: translate_tmp.pl:248
+msgid "Show links to previous uploads"
+msgstr "Rādīt saites uz iepriekšējām augšupielādēm"
+
+#: translate_tmp.pl:33
+#: translate_tmp.pl:47
+#: translate_tmp.pl:62
+#: translate_tmp.pl:76
+#, perl-format
+msgid "Error while executing %s."
+msgstr "Kļūda, izpildot %s."
+
+#: translate_tmp.pl:34
+#: translate_tmp.pl:48
+#: translate_tmp.pl:63
+#: translate_tmp.pl:77
+#, perl-format
+msgid "There was an error executing %s."
+msgstr "Gadījās kļūda, izpildot %s."
+
+#: translate_tmp.pl:37
+#: translate_tmp.pl:51
+#: translate_tmp.pl:66
+#: translate_tmp.pl:80
+#, perl-format
+msgid "Exit Code: %d."
+msgstr "Izejas kods: %d."
+
+#: translate_tmp.pl:167
+msgid "Synchronization complete"
+msgstr "Sinhronizācija pabeigta"
+
+#: translate_tmp.pl:169
+msgid "Synchronization in progress..."
+msgstr "Notiek sinhronizācija..."
+
+#: translate_tmp.pl:61
+msgid "Illegal URI."
+msgstr "Nelegāla URI."
+
+#: translate_tmp.pl:81
+msgid "Connection error."
+msgstr "Savienojuma kļūda."
+
+#: translate_tmp.pl:82
+msgid "Please check your connectivity and try again."
+msgstr "Lūdzu, pārbaudiet savu savienojumu un mēģiniet vēlreiz."
+
+#: translate_tmp.pl:88
+#, perl-format
+msgid "Login with username %s failed."
+msgstr "Neizdevās ielogoties ar lietotājvārdu %s."
+
+#: translate_tmp.pl:108
+msgid "Cannot change working directory."
+msgstr "Nevar mainīt darba direktoriju."
+
+#: translate_tmp.pl:118
+msgid "Command 'put' failed."
+msgstr "Komanda 'put' neizdevās."
+
+#: translate_tmp.pl:87
+msgid "Copy this code to clipboard"
+msgstr "Kopēt šo kodu starpliktuvē"
+
+#: translate_tmp.pl:112
+#, perl-format
+msgid "Upload - %s - %s"
+msgstr "Augšupielādēt - %s - %s"
+
+#: translate_tmp.pl:121
+msgid "Draw a rectangular area using the mouse."
+msgstr "Uzzīmējiet taisnstūrveida apgabalu, izmantojot peli."
+
+#: translate_tmp.pl:124
+msgid "To take a screenshot, press the Enter key. Press Esc to quit."
+msgstr ""
+"Lai uzņemtu ekrānuzņēmumu, nospiediet 'Enter' taustiņu. Nospiediet 'Esc', "
+"lai izietu."
+
+#: translate_tmp.pl:127
+msgid "<b>shift/right-click</b> → selection dialog on/off"
+msgstr "<b>shift/labais-klikšķis</b> → iezīmējuma dialogs ieslēgts/izslēgts"
+
+#: translate_tmp.pl:128
+msgid "<b>ctrl + scrollwheel</b> → zoom in/out"
+msgstr "<b>ctrl + ritentiņš</b> → tālummaiņa tuvāk/tālāk"
+
+#: translate_tmp.pl:129
+msgid "<b>space</b> → zoom window on/off"
+msgstr "<b>atstarpe</b> → tālummaiņas logs ieslēgts/izslēgts"
+
+#: translate_tmp.pl:130
+msgid "<b>cursor keys</b> → move cursor"
+msgstr "<b>kursortaustiņi</b> → pārvietot kursoru"
+
+#: translate_tmp.pl:131
+msgid "<b>cursor keys + alt</b> → move selection"
+msgstr "<b>kursortaustiņi + alt</b> → pārvietot iezīmējumu"
+
+#: translate_tmp.pl:132
+msgid "<b>cursor keys + ctrl</b> → resize selection"
+msgstr "<b>kursortaustiņi + ctrl</b> → mainīt iezīmējuma lielumu"
+
+#: translate_tmp.pl:88
+msgid ""
+"Maybe mouse pointer could not be grabbed or the selected area is invalid."
+msgstr ""
+"Iespējams peles rādītāju neizdevās satvert vai atlasītais apgabals ir "
+"nederīgs."
+
+#: translate_tmp.pl:96
+msgid "Keyboard could not be grabbed."
+msgstr "Tastatūru neizdevās satvert."
+
+#: translate_tmp.pl:105
+msgid "menu"
+msgstr "izvēlne"
+
+#: translate_tmp.pl:107
+msgid "tooltip"
+msgstr "paskaidre"
+
+#: translate_tmp.pl:111
+#, perl-format
+msgid "No window with type %s detected."
+msgstr "Nav atklāts neviens logs ar tipu %s."
+
+#: translate_tmp.pl:119
+msgid "There is no last capture that can be redone."
+msgstr "Nav pēdējās uzņemšanas, kuru var atkārtot."
+
+#: translate_tmp.pl:127
+msgid "The window is no longer available."
+msgstr "Logs vairs nav pieejams."
+
+#: translate_tmp.pl:139
+#: translate_tmp.pl:145
+msgid "Unable to capture website"
+msgstr "Nevar uzņemt tīmekļa vietni"
+
+#: translate_tmp.pl:153
+#, perl-format
+msgid "No window with name pattern %s detected."
+msgstr "Nav atklāts neviens logs ar rakstu %s."
+
+#: translate_tmp.pl:163
+#, perl-format
+msgid "Invalid pattern %s detected."
+msgstr "Atklāts nederīgs raksts %s."
+
+#: translate_tmp.pl:122
+msgid "No subwindow detected"
+msgstr "Nav atklāts neviens apakšlogs"
+
+#: translate_tmp.pl:123
+msgid ""
+"Maybe this window is using client-side windows (or similar).\n"
+"Shutter is not yet able to query the tree information of such windows."
+msgstr ""
+"Šis logs, iespējams, izmanto klienta puses logus (vai tamlīdzīgi).\n"
+"Shutter vēl nevar veikt vaicājumu koka informācijai šādiem logiem."
+
+#: translate_tmp.pl:81
+msgid "URL to capture"
+msgstr "Tīmekļa vietnes adrese"
+
+#: translate_tmp.pl:98
+msgid "C_apture"
+msgstr "_Uzņemt"
+
+#: translate_tmp.pl:157
+msgid "Workspaces"
+msgstr "Darbvirsmas"
+
+#: translate_tmp.pl:447
+#: translate_tmp.pl:4014
+msgid "Fill color"
+msgstr "Aizpildījums"
+
+#: translate_tmp.pl:454
+#: translate_tmp.pl:455
+msgid "Adjust fill color and opacity"
+msgstr "Pielāgot aizpildījuma krāsu un piesātinātību"
+
+#: translate_tmp.pl:461
+#: translate_tmp.pl:4033
+msgid "Stroke color"
+msgstr "Svītras krāsa"
+
+#: translate_tmp.pl:466
+#: translate_tmp.pl:4039
+msgid "Choose stroke color"
+msgstr "Izvēlieties svītras krāsu"
+
+#: translate_tmp.pl:468
+#: translate_tmp.pl:469
+msgid "Adjust stroke color and opacity"
+msgstr "Pielāgot svītras krāsu un piesātinātību"
+
+#: translate_tmp.pl:475
+#: translate_tmp.pl:4000
+msgid "Line width"
+msgstr "Platums"
+
+#: translate_tmp.pl:479
+#: translate_tmp.pl:480
+msgid "Adjust line width"
+msgstr "Pielāgot līnijas platumu"
+
+#: translate_tmp.pl:486
+#: translate_tmp.pl:4076
+#: translate_tmp.pl:4200
+msgid "Font"
+msgstr "Fonts"
+
+#: translate_tmp.pl:490
+#: translate_tmp.pl:491
+msgid "Select font family and size"
+msgstr "Izvēlieties fontu saimi un lielumu"
+
+#: translate_tmp.pl:497
+msgid "Insert image"
+msgstr "Ievietot attēlu"
+
+#: translate_tmp.pl:610
+#: translate_tmp.pl:611
+msgid "Insert an arbitrary object or file"
+msgstr "Ievietojiet patvaļīgu objektu vai failu"
+
+#: translate_tmp.pl:631
+msgid "X"
+msgstr "X"
+
+#: translate_tmp.pl:650
+msgid "Y"
+msgstr "Y"
+
+#: translate_tmp.pl:669
+#: translate_tmp.pl:4129
+msgid "Width"
+msgstr "Platums"
+
+#: translate_tmp.pl:688
+msgid "Height"
+msgstr "Augstums"
+
+#: translate_tmp.pl:718
+msgid "_Crop"
+msgstr "Ap_cirst"
+
+#: translate_tmp.pl:863
+msgid "Click-Drag to scale (try Control to scale uniformly)"
+msgstr ""
+"Nospiediet un velciet, lai mērogotu (mēģiniet Control, lai mērogotu "
+"vienmērīgi)"
+
+#: translate_tmp.pl:865
+msgid "Click-Drag to resize the canvas"
+msgstr "Nospiediet un velciet, lai mainītu audekla izmēru"
+
+#: translate_tmp.pl:870
+msgid "Click to paint (try Control or Shift for a straight line)"
+msgstr ""
+"Klikšķiniet, lai zīmētu (mēģiniet Control vai Shift, lai vilktu taisnu "
+"līniju)"
+
+#: translate_tmp.pl:874
+msgid "Click-Drag to create a new straight line"
+msgstr "Nospiediet un velciet, lai izveidotu jaunu taisnu līniju"
+
+#: translate_tmp.pl:878
+msgid "Click-Drag to create a new arrow"
+msgstr "Nospiediet un velciet, lai izveidotu jaunu bultu"
+
+#: translate_tmp.pl:882
+msgid "Click-Drag to create a new rectangle"
+msgstr "Nospiediet un velciet, lai izveidotu jaunu taisnstūri"
+
+#: translate_tmp.pl:886
+msgid "Click-Drag to create a new ellipse"
+msgstr "Nospiediet un velciet, lai izveidotu jaunu elipsi"
+
+#: translate_tmp.pl:890
+msgid "Click-Drag to add a new text area"
+msgstr "Nospiediet un velciet, lai izveidotu jaunu teksta laukumu"
+
+#: translate_tmp.pl:894
+msgid "Click to censor (try Control or Shift for a straight line)"
+msgstr ""
+"Klikšķiniet, lai cenzētu (mēģiniet Control vai Shift, lai vilktu taisnu "
+"līniju)"
+
+#: translate_tmp.pl:898
+msgid "Click-Drag to create a pixelized region"
+msgstr "Nospiediet un velciet, lai izveidotu pikselizētu reģionu"
+
+#: translate_tmp.pl:902
+msgid "Click to add an auto-increment shape"
+msgstr ""
+"Noklikšķini, lai pievienotu automātiski pieaugošas numerācijas figūru"
+
+#: translate_tmp.pl:1223
+#, perl-format
+msgid "Save the changes to image %s before closing?"
+msgstr "Saglabāt attēla %s izmaiņas pirms aizvēršanas?"
+
+#: translate_tmp.pl:1239
+msgid "Close"
+msgstr "Aizvērt"
+
+#: translate_tmp.pl:1242
+msgid "Do_n't save"
+msgstr "_Nesaglabāt"
+
+#: translate_tmp.pl:1308
+#, perl-format
+msgid ""
+"If you don't save the image, changes from the last minute will be lost"
+msgid_plural ""
+"If you don't save the image, changes from the last %d minutes will be lost"
+msgstr[0] ""
+"Ja nesaglabāsiet attēlu, pēdējās minūtes laikā veiktās izmaiņas tiks zaudētas"
+msgstr[1] ""
+"Ja nesaglabāsiet attēlu, pēdējo %d minūšu laikā veiktās izmaiņas tiks "
+"zaudētas"
+msgstr[2] ""
+"Ja nesaglabāsiet attēlu, pēdējo %d minūšu laikā veiktās izmaiņas tiks "
+"zaudētas"
+
+#: translate_tmp.pl:1703
+msgid "Do you want to save the changed background color?"
+msgstr "Vai vēlaties saglabāt izmainīto fona krāsu?"
+
+#: translate_tmp.pl:1704
+msgid ""
+"The background is likely to be transparent if you decide to ignore the "
+"background color."
+msgstr ""
+"Fons, iespējams, būs caurspīdīgs, ja jūs nolemjat ignorēt fona krāsu."
+
+#: translate_tmp.pl:1706
+msgid "Save Background Color"
+msgstr "Saglabāt fona krāsu"
+
+#: translate_tmp.pl:1709
+msgid "_Ignore Background Color"
+msgstr "_Ignorēt fona krāsu"
+
+#: translate_tmp.pl:1712
+msgid "_Save Background Color"
+msgstr "_Saglabāt fona krāsu"
+
+#: translate_tmp.pl:3760
+msgid "Change Background Color..."
+msgstr "Mainīt fona krāsu..."
+
+#: translate_tmp.pl:3770
+msgid "_Reset to Default"
+msgstr "_Atstatīt uz noklusēto"
+
+#: translate_tmp.pl:3820
+msgid "Raise"
+msgstr "Pacelt"
+
+#: translate_tmp.pl:3843
+msgid "Lower"
+msgstr "Nolaist"
+
+#: translate_tmp.pl:3888
+msgid "Unlock"
+msgstr "Atslēgt"
+
+#: translate_tmp.pl:3891
+msgid "Lock"
+msgstr "Slēgt"
+
+#: translate_tmp.pl:3913
+msgid "Edit Preferences..."
+msgstr "Rediģēt iestatījumus..."
+
+#: translate_tmp.pl:4054
+msgid "Numbering"
+msgstr "Numerācija"
+
+#: translate_tmp.pl:4064
+msgid "Current value"
+msgstr "Pašreizējā vērtība"
+
+#: translate_tmp.pl:4119
+#: translate_tmp.pl:5989
+msgid "Arrow"
+msgstr "Bulta"
+
+#: translate_tmp.pl:4141
+msgid "Length"
+msgstr "Garums"
+
+#: translate_tmp.pl:4153
+msgid "Tip length"
+msgstr "Galiņa garums"
+
+#: translate_tmp.pl:4163
+msgid "Display an arrow at the end of the line"
+msgstr "Rādīt bultiņu līnijas beigās"
+
+#: translate_tmp.pl:4165
+msgid "Display an arrow at the start of the line"
+msgstr "Rādīt bultiņu līnijas sākumā"
+
+#: translate_tmp.pl:4190
+#: translate_tmp.pl:5992
+msgid "Text"
+msgstr "Teksts"
+
+#: translate_tmp.pl:4229
+msgid "Font color"
+msgstr "Fonta krāsa"
+
+#: translate_tmp.pl:4235
+msgid "Choose font color"
+msgstr "Izvēlieties fonta krāsu"
+
+#: translate_tmp.pl:4257
+msgid "Use selected font"
+msgstr "Lietot izvēlēto fontu"
+
+#: translate_tmp.pl:4263
+msgid "Use selected font color"
+msgstr "Lietot izvēlēto fonta krāsu"
+
+#: translate_tmp.pl:5866
+msgid "_Tools"
+msgstr "_Rīki"
+
+#: translate_tmp.pl:5868
+msgid "Undo last action"
+msgstr "Atsaukt pēdējo darbību"
+
+#: translate_tmp.pl:5871
+msgid "Do again the last undone action"
+msgstr "Atkārtot pēdējo atcelto darbību"
+
+#: translate_tmp.pl:5874
+msgid "Copy selection to clipboard"
+msgstr "Kopēt iezīmēto starpliktuvē"
+
+#: translate_tmp.pl:5880
+msgid "Cut selection to clipboard"
+msgstr "Izgriezt iezīmēto starpliktuvē"
+
+#: translate_tmp.pl:5887
+msgid "Paste objects from clipboard"
+msgstr "Ielīmēt objektus no starpliktuves"
+
+#: translate_tmp.pl:5890
+msgid "Delete current object"
+msgstr "Izdzēst pašreizējo objektu"
+
+#: translate_tmp.pl:5893
+msgid "Clear canvas"
+msgstr "Notīrīt audeklu"
+
+#: translate_tmp.pl:5907
+msgid "Abort current mode"
+msgstr "Pārtraukt pašreizējo režīmu"
+
+#: translate_tmp.pl:5910
+msgid "Close this window"
+msgstr "Aizvērt šo logu"
+
+#: translate_tmp.pl:5913
+msgid "Save image"
+msgstr "Saglabāt attēlu"
+
+#: translate_tmp.pl:5916
+msgid "Export to _File..."
+msgstr "Eksportēt _failā..."
+
+#: translate_tmp.pl:5916
+msgid "Export to File..."
+msgstr "Eksportēt failā..."
+
+#: translate_tmp.pl:5919
+msgid "_Export to SVG..."
+msgstr "_Eksportēt SVG..."
+
+#: translate_tmp.pl:5919
+msgid "Export to SVG..."
+msgstr "Eksportēt SVG..."
+
+#: translate_tmp.pl:5922
+msgid "Export to PDF..."
+msgstr "Eksportēt PDF..."
+
+#: translate_tmp.pl:5925
+msgid "Export to PostScript..."
+msgstr "Eksportēt PostScript..."
+
+#: translate_tmp.pl:5949
+msgid "Automatic scrolling"
+msgstr "Automātiska ritināšana"
+
+#: translate_tmp.pl:5985
+msgid "Select"
+msgstr "Izvēlēties"
+
+#: translate_tmp.pl:5985
+msgid "Select item to move or resize it"
+msgstr "Izvēlieties objektu, lai pārvietotu vai mainītu tā izmēru"
+
+#: translate_tmp.pl:5986
+msgid "Freehand"
+msgstr "Brīvrokas"
+
+#: translate_tmp.pl:5986
+msgid "Draw a freehand line"
+msgstr "Zīmēt ar brīvu roku"
+
+#: translate_tmp.pl:5987
+msgid "Highlighter"
+msgstr "Izgaismotājs"
+
+#: translate_tmp.pl:5988
+msgid "Line"
+msgstr "Līnija"
+
+#: translate_tmp.pl:5988
+msgid "Draw a straight line"
+msgstr "Zīmēt taisnu līniju"
+
+#: translate_tmp.pl:5989
+msgid "Draw an arrow"
+msgstr "Zīmēt bultiņu"
+
+#: translate_tmp.pl:5990
+msgid "Rectangle"
+msgstr "Taisnstūris"
+
+#: translate_tmp.pl:5990
+msgid "Draw a rectangle"
+msgstr "Zīmēt taisnstūri"
+
+#: translate_tmp.pl:5991
+msgid "Ellipse"
+msgstr "Elipse"
+
+#: translate_tmp.pl:5991
+msgid "Draw a ellipse"
+msgstr "Zīmēt elipsi"
+
+#: translate_tmp.pl:5992
+msgid "Add some text to the screenshot"
+msgstr "Pievienot tekstu ekrānuzņēmumam"
+
+#: translate_tmp.pl:5993
+msgid "Censor"
+msgstr "Cenzēt"
+
+#: translate_tmp.pl:5993
+msgid "Censor portions of your screenshot to hide private data"
+msgstr "Cenzē attēla daļas, lai paslēptu privātus datus"
+
+#: translate_tmp.pl:5994
+msgid "Pixelize"
+msgstr "Pikselizēt"
+
+#: translate_tmp.pl:5994
+msgid "Pixelize selected areas of your screenshot to hide private data"
+msgstr "Pikselizē iezīmētās ekrānuzņēmuma daļas, lai paslēptu privātus datus"
+
+#: translate_tmp.pl:5995
+msgid "Number"
+msgstr "Numurs"
+
+#: translate_tmp.pl:5995
+msgid "Add an auto-increment shape to the screenshot"
+msgstr "Pievienot automātiski pieaugošu numerāciju ekrānuzņēmumam"
+
+#: translate_tmp.pl:5996
+msgid "Crop"
+msgstr "Apcirst"
+
+#: translate_tmp.pl:5996
+msgid "Crop your screenshot"
+msgstr "Apcērt ekrānuzņēmumu"
+
+#: translate_tmp.pl:6250
+#: translate_tmp.pl:6440
+msgid "No icon was found"
+msgstr "Ikona netika atrasta"
+
+#: translate_tmp.pl:6309
+msgid "Import from current theme..."
+msgstr "Importēt no pašreizējās tēmas..."
+
+#: translate_tmp.pl:6323
+msgid "Import from session..."
+msgstr "Importēt no sesijas..."
+
+#: translate_tmp.pl:6334
+msgid "Import from filesystem..."
+msgstr "Importēt no failu sistēmas..."
+
+#: translate_tmp.pl:7125
+msgid "New text..."
+msgstr "Jauns teksts..."
